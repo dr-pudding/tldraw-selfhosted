@@ -1,7 +1,5 @@
 # catppuccin-tldraw-selfhosted
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ![preview image](./assets/preview.png)
 
 A fork of [FoxxMD/tldraw-selfhosted](https://github.com/FoxxMD/tldraw-selfhosted) with [Catppuccin](https://github.com/catppuccin/catppuccin) theming and adaptive brush palette colors (Macchiato dark / Latte light).
