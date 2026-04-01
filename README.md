@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![preview image](./assets/preview.png)
+
 A fork of [FoxxMD/tldraw-selfhosted](https://github.com/FoxxMD/tldraw-selfhosted) with [Catppuccin](https://github.com/catppuccin/catppuccin) theming and adaptive brush palette colors (Macchiato dark / Latte light).
 
 This project offers a self-hostable [tldraw instance](https://www.tldraw.com/). It works slightly differently than the base tldraw experience:
